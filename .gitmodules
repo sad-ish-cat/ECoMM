@@ -1,3 +1,6 @@
 [submodule "colpali"]
 	path = colpali
 	url = https://github.com/illuin-tech/colpali.git
+[submodule "entropix"]
+	path = entropix
+	url = https://github.com/xjdr-alt/entropix.git
